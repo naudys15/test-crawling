@@ -24,7 +24,7 @@
     "core-util-is": "^1.0.2",
     "cors": "^2.8.5",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-generator": "^4.16.1",
     "express-validator": "^6.2.0",
     "http-errors": "^1.7.3",
